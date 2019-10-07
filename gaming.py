@@ -1,4 +1,6 @@
 import time
-while 1 == 1:
+for i in 100:
     print('Yeah, we gaming.', end = " ")
     time.sleep(0.1)
+
+Print('we stopped')
